@@ -7,8 +7,6 @@ Welcome to the **Data Structures and Algorithms in C++** repository! This projec
 1. [Introduction](#introduction)
 2. [Topics Covered](#topics-covered)
 3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
